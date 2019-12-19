@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'deer'
+}
+item {
+    id: 2
+    name: 'cattle'
+}
+item {
+    id: 3
+    name: 'plant'
+}
